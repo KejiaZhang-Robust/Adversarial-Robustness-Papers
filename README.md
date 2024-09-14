@@ -43,6 +43,7 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2024-AAAI-[Adversarial Purification with the Manifold Hypothesis](https://ojs.aaai.org/index.php/AAAI/article/view/29574)
 - 2024-ICLR-[Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization](http://arxiv.org/abs/2401.16352)
 - 2024-Arxiv-[Towards Better Adversarial Purification via Adversarial Denoising Diffusion Training](https://arxiv.org/abs/2404.14309v1)
+- 2024-CVPR24-[MimicDiffusion: Purifying Adversarial Perturbation via Mimicking Clean Diffusion Model](https://arxiv.org/abs/2312.04802)
 
 ## Foundation Model Robustness
 
