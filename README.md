@@ -38,9 +38,20 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 
 ## Diffusion-based Purification
 
+- 2022-ICML-[Diffusion Models for Adversarial Purification](http://arxiv.org/abs/2205.07460)
+- 2023-ICCV-[Robust Evaluation of Diffusion-Based Adversarial Purification](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_Robust_Evaluation_of_Diffusion-Based_Adversarial_Purification_ICCV_2023_paper.html)
 - 2024-AAAI-[Adversarial Purification with the Manifold Hypothesis](https://ojs.aaai.org/index.php/AAAI/article/view/29574)
+- 2024-ICLR-[Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization](http://arxiv.org/abs/2401.16352)
+- 2024-Arxiv-[Towards Better Adversarial Purification via Adversarial Denoising Diffusion Training](https://arxiv.org/abs/2404.14309v1)
 
 ## Foundation Model Robustness
+
+- 2023-ICCV-[Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Improving_Adversarial_Robustness_of_Masked_Autoencoders_via_Test-time_Frequency-domain_Prompting_ICCV_2023_paper.html)
+- 2023-MM-[Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https://doi.org/10.1145/3581783.3612454)
+- 2024-CVPR-[One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/html/Li_One_Prompt_Word_is_Enough_to_Boost_Adversarial_Robustness_for_CVPR_2024_paper.html)
+- 2024-CVPR-[Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Pre-trained_Model_Guided_Fine-Tuning_for_Zero-Shot_Adversarial_Robustness_CVPR_2024_paper.html)
+- 2024-NeurIPS-[Convolutional Visual Prompt for Robust Visual Perception](https://proceedings.neurips.cc/paper_files/paper/2023/hash/58be158bf831a706b1a66cffbc401cac-Abstract-Conference.html)
+- 2024-NeurIPS-[On Transfer of Adversarial Robustness from Pretraining to Downstream Tasks](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b9801626a6ffaf6664af1e983dbd0094-Abstract-Conference.html)
 
 ## Adversarial Attacks
 
