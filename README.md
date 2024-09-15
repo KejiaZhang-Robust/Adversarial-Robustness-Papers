@@ -39,11 +39,14 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 ## Diffusion-based Purification
 
 - 2022-ICML-[Diffusion Models for Adversarial Purification](http://arxiv.org/abs/2205.07460)
+- 2023-CVPR-[Back to the Source: Diffusion-Driven Adaptation To Test-Time Corruption](https://github.com/shiyegao/DDA)
+- 2023-ICLR-[DensePure: Understanding Diffusion Models for Adversarial Robustness](https://arxiv.org/abs/2211.00322)
 - 2023-ICCV-[Robust Evaluation of Diffusion-Based Adversarial Purification](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_Robust_Evaluation_of_Diffusion-Based_Adversarial_Purification_ICCV_2023_paper.html)
 - 2024-AAAI-[Adversarial Purification with the Manifold Hypothesis](https://ojs.aaai.org/index.php/AAAI/article/view/29574)
 - 2024-ICLR-[Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization](http://arxiv.org/abs/2401.16352)
 - 2024-Arxiv-[Towards Better Adversarial Purification via Adversarial Denoising Diffusion Training](https://arxiv.org/abs/2404.14309v1)
 - 2024-CVPR24-[MimicDiffusion: Purifying Adversarial Perturbation via Mimicking Clean Diffusion Model](https://arxiv.org/abs/2312.04802)
+- 2024-NeurIPS-[Enhancing Adversarial Robustness via Score-Based Optimization](https://arxiv.org/abs/2307.04333)
 
 ## Foundation Model Robustness
 
