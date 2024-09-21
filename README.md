@@ -47,6 +47,7 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2024-Arxiv-[Towards Better Adversarial Purification via Adversarial Denoising Diffusion Training](https://arxiv.org/abs/2404.14309v1)
 - 2024-CVPR24-[MimicDiffusion: Purifying Adversarial Perturbation via Mimicking Clean Diffusion Model](https://arxiv.org/abs/2312.04802)
 - 2024-NeurIPS-[Enhancing Adversarial Robustness via Score-Based Optimization](https://arxiv.org/abs/2307.04333)
+- 2024-NeurIPS-[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)
 
 ## Foundation Model Robustness
 
