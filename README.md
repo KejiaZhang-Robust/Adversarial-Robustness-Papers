@@ -51,12 +51,18 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 
 ## Foundation Model Robustness
 
+- 2023-NeurIPS-[On Transfer of Adversarial Robustness from Pretraining to Downstream Tasks](https://arxiv.org/abs/2208.03835)
 - 2023-ICCV-[Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Improving_Adversarial_Robustness_of_Masked_Autoencoders_via_Test-time_Frequency-domain_Prompting_ICCV_2023_paper.html)
 - 2023-MM-[Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https://doi.org/10.1145/3581783.3612454)
+- 2024-NAACL-[Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey](https://arxiv.org/abs/2402.09283)
+- 2024-AAAI-[Mutual-Modality Adversarial Attack with Semantic Perturbation](https://arxiv.org/abs/2312.12768)
+- 2024-ICML(oral)-[Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models](https://arxiv.org/abs/2402.12336)
+- 2024-CVPR-[Initialization Matters for Adversarial Transfer Learning](https://arxiv.org/abs/2312.05716)
 - 2024-CVPR-[One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/html/Li_One_Prompt_Word_is_Enough_to_Boost_Adversarial_Robustness_for_CVPR_2024_paper.html)
 - 2024-CVPR-[Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Pre-trained_Model_Guided_Fine-Tuning_for_Zero-Shot_Adversarial_Robustness_CVPR_2024_paper.html)
 - 2024-NeurIPS-[Convolutional Visual Prompt for Robust Visual Perception](https://proceedings.neurips.cc/paper_files/paper/2023/hash/58be158bf831a706b1a66cffbc401cac-Abstract-Conference.html)
 - 2024-NeurIPS-[On Transfer of Adversarial Robustness from Pretraining to Downstream Tasks](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b9801626a6ffaf6664af1e983dbd0094-Abstract-Conference.html)
+- 2024-NeurIPS-[On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934)
 
 ## Adversarial Attacks
 
@@ -66,3 +72,4 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2023-CVPR-[Downstream-agnostic Adversarial Examples](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Downstream-agnostic_Adversarial_Examples_ICCV_2023_paper.html)
 - 2023-ICCV-[Boosting Adversarial Transferability via Gradient Relevance Attack](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_Boosting_Adversarial_Transferability_via_Gradient_Relevance_Attack_ICCV_2023_paper.html)
 - 2023-ICCV-[Enhancing Generalization of Universal Adversarial Perturbation through Gradient Aggregation](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Enhancing_Generalization_of_Universal_Adversarial_Perturbation_through_Gradient_Aggregation_ICCV_2023_paper.html)
+- 2024-NeurIPS-[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)
