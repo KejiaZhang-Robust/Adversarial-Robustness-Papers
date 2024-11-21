@@ -6,7 +6,7 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 
 - 2019-ICLR-[Texture-Learning Robust Representations by Projecting Superficial Statistics Out](http://arxiv.org/abs/1903.06256)
 - 2019-CVPR-[Feature Denoising for Improving Adversarial Robustness](https://openaccess.thecvf.com/content_CVPR_2019/html/Xie_Feature_Denoising_for_Improving_Adversarial_Robustness_CVPR_2019_paper.html)
-- 2019-ICML-[Theoretically Principled Trade-off between Robustness and Accuracy] (https://arxiv.org/abs/1901.08573)
+- 2019-ICML-[Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573)
 - 2019-NeurIPS-[A Fourier Perspective on Model Robustness in Computer Vision](https://arxiv.org/abs/1906.08988)
 - 2019-NeurIPS-[Unlabeled Data Improves Adversarial Robustness](https://proceedings.neurips.cc/paper_files/paper/2019/hash/32e0bd1497aa43e02a42f47d9d6515ad-Abstract.html)
 - 2019-ICCV-[Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks](https://arxiv.org/abs/1904.00887)
@@ -19,6 +19,9 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2022-CVPR-[LAS-AT: Adversarial Training with Learnable Attack Strategy](https://arxiv.org/abs/2203.06616)
 - 2022-NeurIPS-[Models Out of Line: A Fourier Lens on Distribution Shift Robustness](https://proceedings.neurips.cc/paper_files/paper/2022/hash/48736dba3b8d933fabbfdb4f22a7be71-Abstract-Conference.html)
 - 2022-NeurIPS-[Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting](https://openreview.net/forum?id=9_O9mTLYJQp)
+- 2023-NeurIPS-[Adversarial Robustness through Random Weight Sampling](https://proceedings.neurips.cc/paper_files/paper/2023/hash/766f407b7b4a82135da23b32f0cbaff3-Abstract-Conference.html)
+- 2023-NeurIPS-[Improving Adversarial Robustness via Information Bottleneck Distillation](https://papers.neurips.cc/paper_files/paper/2023/hash/233278d812e74a4f9848410881db86b1-Abstract-Conference.html)
+- 2023-NeurIPS-[Revisiting Adversarial Robustness Distillation from the Perspective of Robust Fairness](https://arxiv.org/abs/2108.07969)
 - 2023-CVPR-[The Enemy of My Enemy is My Friend: Exploring Inverse Adversaries for Improving Adversarial Training](https://arxiv.org/abs/2211.00525)
 - 2023-CVPR-[Feature Separation and Recalibration for Adversarial Robustness](https://arxiv.org/abs/2303.13846)
 - 2023-CVPR-[CFA: Class-wise Calibrated Fair Adversarial Training](https://arxiv.org/abs/2303.14460)
@@ -32,9 +35,11 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2023-ICCV-[Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning](http://arxiv.org/abs/2308.02533)
 - 2023-ICML-[Better Diffusion Models Further Improve Adversarial Training](https://arxiv.org/abs/2302.04638)
 - 2023-ICML-[Eliminating Adversarial Noise via Information Discard and Robust Representation Restoration](https://proceedings.mlr.press/v202/zhou23b/zhou23b.pdf)
+- 2023-ICML-[Better Diffusion Models Further Improve Adversarial Training](https://arxiv.org/abs/2302.04638)
 - 2023-NeurIPS-[Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e1f418450107c4a0ddc16d008d131573-Abstract-Conference.html)
 - 2024-CVPR-[Soften to Defend: Towards Adversarial Robustness via Self-Guided Label Refinement](https://arxiv.org/abs/2403.09101)
 - 2024-CVPR-[Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization](https://arxiv.org/abs/2305.00374)
+- 2024-ICLR-[Mitigating the Curse of Dimensionality for Certified Robustness via Dual Randomized Smoothing](https://arxiv.org/abs/2404.09586)
 
 ## Diffusion-based Purification
 
@@ -46,23 +51,23 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2024-ICLR-[Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization](http://arxiv.org/abs/2401.16352)
 - 2024-Arxiv-[Towards Better Adversarial Purification via Adversarial Denoising Diffusion Training](https://arxiv.org/abs/2404.14309v1)
 - 2024-CVPR24-[MimicDiffusion: Purifying Adversarial Perturbation via Mimicking Clean Diffusion Model](https://arxiv.org/abs/2312.04802)
-- 2024-NeurIPS-[Enhancing Adversarial Robustness via Score-Based Optimization](https://arxiv.org/abs/2307.04333)
-- 2024-NeurIPS-[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)
+- 2023-NeurIPS-[Enhancing Adversarial Robustness via Score-Based Optimization](https://arxiv.org/abs/2307.04333)
+- 2023-NeurIPS-[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)
 
 ## Foundation Model Robustness
 
 - 2023-NeurIPS-[On Transfer of Adversarial Robustness from Pretraining to Downstream Tasks](https://arxiv.org/abs/2208.03835)
 - 2023-ICCV-[Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Improving_Adversarial_Robustness_of_Masked_Autoencoders_via_Test-time_Frequency-domain_Prompting_ICCV_2023_paper.html)
 - 2023-MM-[Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https://doi.org/10.1145/3581783.3612454)
+- 2023-NeurIPS-[Convolutional Visual Prompt for Robust Visual Perception](https://proceedings.neurips.cc/paper_files/paper/2023/hash/58be158bf831a706b1a66cffbc401cac-Abstract-Conference.html)
+- 2023-NeurIPS-[On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934)
 - 2024-NAACL-[Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey](https://arxiv.org/abs/2402.09283)
 - 2024-AAAI-[Mutual-Modality Adversarial Attack with Semantic Perturbation](https://arxiv.org/abs/2312.12768)
 - 2024-ICML(oral)-[Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models](https://arxiv.org/abs/2402.12336)
 - 2024-CVPR-[Initialization Matters for Adversarial Transfer Learning](https://arxiv.org/abs/2312.05716)
 - 2024-CVPR-[One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/html/Li_One_Prompt_Word_is_Enough_to_Boost_Adversarial_Robustness_for_CVPR_2024_paper.html)
 - 2024-CVPR-[Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Pre-trained_Model_Guided_Fine-Tuning_for_Zero-Shot_Adversarial_Robustness_CVPR_2024_paper.html)
-- 2024-NeurIPS-[Convolutional Visual Prompt for Robust Visual Perception](https://proceedings.neurips.cc/paper_files/paper/2023/hash/58be158bf831a706b1a66cffbc401cac-Abstract-Conference.html)
 - 2024-NeurIPS-[On Transfer of Adversarial Robustness from Pretraining to Downstream Tasks](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b9801626a6ffaf6664af1e983dbd0094-Abstract-Conference.html)
-- 2024-NeurIPS-[On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934)
 
 ## Adversarial Attacks
 
@@ -72,4 +77,5 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2023-CVPR-[Downstream-agnostic Adversarial Examples](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Downstream-agnostic_Adversarial_Examples_ICCV_2023_paper.html)
 - 2023-ICCV-[Boosting Adversarial Transferability via Gradient Relevance Attack](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_Boosting_Adversarial_Transferability_via_Gradient_Relevance_Attack_ICCV_2023_paper.html)
 - 2023-ICCV-[Enhancing Generalization of Universal Adversarial Perturbation through Gradient Aggregation](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Enhancing_Generalization_of_Universal_Adversarial_Perturbation_through_Gradient_Aggregation_ICCV_2023_paper.html)
-- 2024-NeurIPS-[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)
+- 2023-NeurIPS-[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)
+- 2024-ECCV-[AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models](https://arxiv.org/abs/2307.12499)
