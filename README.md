@@ -74,7 +74,7 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2020-CVPR-[Robust Superpixel-Guided Attentional Adversarial Attack](https://ieeexplore.ieee.org/abstract/document/9157746)
 - 2021-ICCV-[Admix: Enhancing the Transferability of Adversarial Attacks](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Admix_Enhancing_the_Transferability_of_Adversarial_Attacks_ICCV_2021_paper.html)
 - 2022-AAAI-[Learning Universal Adversarial Perturbation by Adversarial Example](https://ojs.aaai.org/index.php/AAAI/article/view/20023)
-- 2023-CVPR-[Downstream-agnostic Adversarial Examples](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Downstream-agnostic_Adversarial_Examples_ICCV_2023_paper.html)
+- 2023-ICCV-[Downstream-agnostic Adversarial Examples](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Downstream-agnostic_Adversarial_Examples_ICCV_2023_paper.html)
 - 2023-ICCV-[Boosting Adversarial Transferability via Gradient Relevance Attack](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_Boosting_Adversarial_Transferability_via_Gradient_Relevance_Attack_ICCV_2023_paper.html)
 - 2023-ICCV-[Enhancing Generalization of Universal Adversarial Perturbation through Gradient Aggregation](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Enhancing_Generalization_of_Universal_Adversarial_Perturbation_through_Gradient_Aggregation_ICCV_2023_paper.html)
 - 2023-NeurIPS-[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)
