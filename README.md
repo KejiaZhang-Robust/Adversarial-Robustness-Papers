@@ -10,6 +10,7 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2019-NeurIPS-[A Fourier Perspective on Model Robustness in Computer Vision](https://arxiv.org/abs/1906.08988)
 - 2019-NeurIPS-[Unlabeled Data Improves Adversarial Robustness](https://proceedings.neurips.cc/paper_files/paper/2019/hash/32e0bd1497aa43e02a42f47d9d6515ad-Abstract.html)
 - 2019-ICCV-[Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks](https://arxiv.org/abs/1904.00887)
+- 2020-ECCV-[Attributional Robustness Training Using Input-Gradient Spatial Alignment](https://arxiv.org/abs/1911.13073)
 - 2020-ICLR-[Improving Adversarial Robustness Requires Revisiting Misclassified Examples](https://openreview.net/forum?id=rklOg6EFwS)
 - 2020-NeurIPS-[Adversarial Weight Perturbation Helps
   Robust Generalization](https://arxiv.org/abs/2004.05884)
