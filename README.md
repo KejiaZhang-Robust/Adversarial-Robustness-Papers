@@ -83,3 +83,5 @@ This repo includes recent works regarding adversarial robustness on deep neural 
 - 2023-NeurIPS-[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)
 - 2024-ECCV-[AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models](https://arxiv.org/abs/2307.12499)
 - 2024-CVPR-[Improving Transferable Targeted Adversarial Attacks with Model Self-Enhancement](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Improving_Transferable_Targeted_Adversarial_Attacks_with_Model_Self-Enhancement_CVPR_2024_paper.html)[Code](https://github.com/g4alllf/SASD)
+
+---
